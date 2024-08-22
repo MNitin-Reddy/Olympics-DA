@@ -41,3 +41,21 @@ The project is well-documented, with detailed explanations of the functions and 
 ## Deployed App
 
 Check out the live version of the web app [here](https://olympics-data-analysis-app-mnitingh.streamlit.app/).
+
+## sample images
+
+![Main page](https://github.com/user-attachments/assets/04f0a58d-385b-4138-bc4b-52ab624d5984)
+![medal Tally](https://github.com/user-attachments/assets/b5b1241a-e67b-4773-ac1d-35089efc6b3f)
+
+![year_sel](https://github.com/user-attachments/assets/2a8965b7-4258-4fbd-85dd-b71af7e0c209)
+
+![Country-wise 1](https://github.com/user-attachments/assets/42e35988-a604-4aac-a81f-24360861fa02)
+![country-wise 2](https://github.com/user-attachments/assets/1b2b6b7b-72b8-43ae-b8e0-e0cfaeba642f)
+
+![Athelete 1](https://github.com/user-attachments/assets/37b8d434-a3e1-4c53-94cc-00a213245a83)
+![Athelete 2](https://github.com/user-attachments/assets/905cf860-9022-4e7f-a8ed-d49c23b21b4a)
+
+![Oveall 1](https://github.com/user-attachments/assets/06cd8c80-67d0-46fb-be66-d47abe8e2ede)
+![Overall 2](https://github.com/user-attachments/assets/8cc210ea-af51-4889-96c7-8fa66b2f7fc8)
+
+![overall 3](https://github.com/user-attachments/assets/494e9fca-425e-4650-ac16-2e70bfc90897)
