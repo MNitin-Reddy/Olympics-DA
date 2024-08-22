@@ -30,7 +30,7 @@ st.sidebar.image('olympic_logo.png')
 # Menu to select the analysis
 menu = st.sidebar.radio(
     'Select an Option',
-    ('Medal Tally', 'Overall Analysis','Country-wise Analysis','Athelete-wise Analysis')
+    ('Medal Tally','Country-wise Analysis','Athelete-wise Analysis','Overall Analysis')
 )
 
 st.markdown(
