@@ -42,7 +42,7 @@ The project is well-documented, with detailed explanations of the functions and 
 
 Check out the live version of the web app [here](https://olympics-data-analysis-app-mnitingh.streamlit.app/).
 
-## sample images
+## Sample Images
 
 ![Main page](https://github.com/user-attachments/assets/04f0a58d-385b-4138-bc4b-52ab624d5984)
 ![medal Tally](https://github.com/user-attachments/assets/b5b1241a-e67b-4773-ac1d-35089efc6b3f)
